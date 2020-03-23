@@ -78,15 +78,15 @@ d3.json("data.json", function init(x) {
       radius = 1500;
     }
     else if (Cases >= 500 && Cases< 5000) {
-      radius = 2500;
+      radius = 2000;
     }
     else if (Cases >= 5000 && Cases <10000) {
       radius = 3500;
     }
 
     else if (Cases >= 10000) {
-        radius = 4500;}
-    };
+        radius = 5000;
+    }
 
     radii.push(radius);
     console.log(Country, Cases, radius, Deaths, NewCases, NewDeaths, MortRate, coords);
