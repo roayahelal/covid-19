@@ -71,17 +71,21 @@ d3.json("data.json", function init(x) {
     if (Cases < 10) {
       radius = 500;
     }
-    else if (10 <= Cases && Cases < 50) {
+    else if (Cases >= 10 && Cases < 50) {
       radius = 700;
     }
-    else if (50 <= Cases && Cases < 500) {
+    else if (Cases >=50  && Cases < 500) {
       radius = 1500;
     }
-    else if (500 <= Cases && Cases< 5000) {
+    else if (Cases >= 500 && Cases< 5000) {
       radius = 2500;
     }
-    else if (5000 <= Cases) {
+    else if (Cases >= 5000 && Cases <10000) {
       radius = 3500;
+    }
+
+    else if (Cases >= 10000) {
+        radius = 4500;}
     };
 
     radii.push(radius);
@@ -105,7 +109,7 @@ d3.json("data.json", function init(x) {
     "Total Deaths from COVID-19: ": totDeaths.toLocaleString(),
     "Total Confirmed Cases in 24h: ": totNewCases.toLocaleString(),
     "Total Confirmed Deaths in 24h: ": totNewDeaths.toLocaleString(),
-    "Global Average Mortalitiy Rate: ": (weighted_global_mortality * 100).toFixed(4) + "%"
+    "Global Weighted-Average Mortality Rate: ": (weighted_global_mortality * 100).toFixed(4) + "%"
   };
   console.log(overallData);
   var data_location = d3.select("#Global_Data");
