@@ -19,26 +19,6 @@ var radius;
 var radii = [];
 var circles = [];
 
-// main.js
-// const countries = import('./json_geomap_dummy01.json');
-// console.log(countries); // { hello: 'world' }
-// function readTextFile(file, callback) {
-//   var rawFile = new XMLHttpRequest();
-//   rawFile.overrideMimeType("application/json");
-//   rawFile.open("GET", file, true);
-//   rawFile.onreadystatechange = function() {
-//       if (rawFile.readyState === 4 && rawFile.status == "200") {
-//           callback(rawFile.responseText);
-//       }
-//   }
-//   rawFile.send(null);
-// }
-// // Country data
-// readTextFile(, function(data){
-//   json_test = JSON.parse(data);
-//   console.log(json_test);
-// });
-
 d3.json("data.json", function init(x) {
   console.log(x);
 
@@ -130,14 +110,6 @@ function specifyCountry() {
   d3.json("data.json", function(x) {
     console.log(x);
 
-    // circles.push(L.circle(coords, {
-    //   Opacity: 0.40,
-    //   fillOpacity: 0.40,
-    //   color: "white",
-    //   fillColor: "red",
-    //   radius: 1
-    //   }));
-
     for ( var i = 0; i < x.length; i++) {
       var Country = x[i].Country;
       var Cases = +x[i].TotalCases;
@@ -169,16 +141,6 @@ function specifyCountry() {
           data_location.append('p').html(`<h4>${key}<b><font color="red">${value}</font><b></h4>`));
         myMap.flyTo(coords, 5);
       }
-
-      // catch(err) {
-      //   document.getElementById("$Country_Data").innerHTML = err.message;
-      // };
-      // else {
-      //   $("#Country_Data").empty();
-
-      //   var data_location = d3.select("#Country_Data");
-      //   data_location.append('p').html(`<h4>Hmm, this doesn't seem to be a country</h4>`)
-      // };
 
     }
     timer = setInterval(function() {returnToCenter()}, 10000);

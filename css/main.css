@@ -92,6 +92,9 @@ body {
   padding-left: 20px;
 }
 
+#Global_Data{
+  word-break:break-all;
+}
 
 .footer {
   position: static;

@@ -12,11 +12,9 @@
         }, 0);
         console.log(weighted_mortality_per_country);
         var dates = data.map(row=> (row.Date)).slice(2,3);
-        var date = Date(dates);
-        // console.log(date.toUTCString());
+        var date =Date.parse(dates);
         console.log(`Date Updated: ${(data.map(row=> (row.Date)).slice(2,3))}`)
-        // date.toUTCString()
-        // d3.select("#date-time").enter().append().text("Sat Mar 14 2020 9:55:19 GMT-0400 (Eastern Daylight Time"))
+        d3.select("#date-time").text(date);
 
     // New cases per country chart
       var trace1 = {
