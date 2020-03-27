@@ -26,7 +26,7 @@
         hoverinfo: 'none',
         marker: {
           color: 'rgb(192,192,192)',
-          opacity: 0.6,
+          opacity: 0.7,
           line: {
             color: 'rgb(255,0,0)',
             width: 1.5
@@ -58,10 +58,10 @@
           type: "bar",
           text: data.map(row => row.TotalDeaths),
           textposition: 'auto',
-          hoverinfo: 'none',
+          // hoverinfo: 'none',
           marker: {
-            color: 'rgb(139,0,0)',
-            opacity: 0.6,
+            color: 'rgb(128,0,0)',
+            opacity: 0.7,
             line: {
               color: 'rgb(0,0,0)',
               width: 1.5}

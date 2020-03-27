@@ -31,9 +31,7 @@ d3.json("data.json", function init(x) {
   for ( var i = 0; i < x.length; i++) {
     var Country = x[i].Country;
     var Cases = +x[i].TotalCases;
-    var Recovered = +x[i].TotalRecovered;
-    var totCases = Cases + totCases
-    var totRecovered = Recovered + totRecovered
+    var totCases = Cases + totCases;
     var Deaths = +x[i].TotalDeaths;
     var totDeaths = Deaths + totDeaths;
     var NewCases = +x[i].NewCases;
@@ -43,8 +41,7 @@ d3.json("data.json", function init(x) {
     var MortRate = (( +x[i].TotalDeaths / +x[i].TotalCases ) * 100).toFixed(2) + '%';
     var intMortRate = (( +x[i].TotalDeaths / +x[i].TotalCases ));
     var totMortRate = intMortRate + totMortRate;
-    var avgMortRate = totMortRate/(i+1);
-    var closedMortRate = totDeaths / (totDeaths + totRecovered);
+    
 
     var coords = [x[i].Latitude, x[i].Longitude]
     
@@ -122,22 +119,23 @@ function specifyCountry() {
       var Deaths = +x[i].TotalDeaths;
       var NewCases = +x[i].NewCases;
       var NewDeaths = +x[i].NewDeaths;
-      var MortRate = (( +x[i].TotalDeaths / +x[i].TotalCases ) * 100).toFixed(2) + '%';
+      var Recovered = +x[i].TotalRecovered;
+      var MortRate = (( +x[i].TotalDeaths / +x[i].TotalCases) * 100).toFixed(2) + '%';
       var coords = [x[i].Latitude, x[i].Longitude];
-
+      var closedMortRate = ((Deaths / (Deaths + Recovered)) * 100).toFixed(2) + '%';
       var insertedCountry = document.getElementById("country").value;
       // try {
           
       if (insertedCountry == Country)  {
-        console.log(Country, Cases, Deaths, NewCases, NewCases, NewDeaths, MortRate, i);
+        console.log(Country, Cases, Deaths, NewCases, NewCases, NewDeaths, MortRate,closedMortRate, i);
         var countryData = {
           "Country: ": Country,
           "Total Cases: ": Cases.toLocaleString(),
           "Total Deaths: ": Deaths.toLocaleString(),
           "24h Cases: ": NewCases.toLocaleString(),
           "24h Deaths: ": NewDeaths.toLocaleString(),
-          "Current Mortalitiy Rate: ": MortRate,
-          "Forcasted Mortality Rate: ": closedMortRate
+          "Current Mortality Rate: ": MortRate,
+          "Closed Cases Mortality Rate: ": closedMortRate.toLocaleString()
         };
         console.log(countryData);
         
