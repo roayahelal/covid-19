@@ -44,6 +44,7 @@ d3.json("data.json", function init(x) {
     var intMortRate = (( +x[i].TotalDeaths / +x[i].TotalCases ));
     var totMortRate = intMortRate + totMortRate;
     var avgMortRate = totMortRate/(i+1);
+    var closedMortRate = totDeaths / (totDeaths + totRecovered)
 
     var coords = [x[i].Latitude, x[i].Longitude]
     
@@ -135,7 +136,8 @@ function specifyCountry() {
           "Total Deaths: ": Deaths.toLocaleString(),
           "24h Cases: ": NewCases.toLocaleString(),
           "24h Deaths: ": NewDeaths.toLocaleString(),
-          "Mortalitiy Rate: ": MortRate
+          "Current Mortalitiy Rate: ": MortRate
+          "Forcasted Mortality Rate: "
         };
         console.log(countryData);
         
