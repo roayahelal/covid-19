@@ -137,7 +137,7 @@ function specifyCountry() {
           "24h Cases: ": NewCases.toLocaleString(),
           "24h Deaths: ": NewDeaths.toLocaleString(),
           "Current Mortalitiy Rate: ": MortRate,
-          "Forcasted Mortality Rate: " closedMortRate
+          "Forcasted Mortality Rate: ": closedMortRate
         };
         console.log(countryData);
         
