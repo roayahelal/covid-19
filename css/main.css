@@ -46,9 +46,6 @@ body {
 }
 .map-content{
   font-family: Arial, Helvetica, sans-serif;
-  width: 40%;
-  height:100%;
-  margin: 5px;
   border: 2.5px  rgb(233, 22, 22);
   border-radius: 10px;
   padding: 7px;

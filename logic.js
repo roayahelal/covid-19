@@ -31,7 +31,9 @@ d3.json("data.json", function init(x) {
   for ( var i = 0; i < x.length; i++) {
     var Country = x[i].Country;
     var Cases = +x[i].TotalCases;
-    var totCases = Cases + totCases;
+    var Recovered = +x[i].TotalRecovered;
+    var totCases = Cases + totCases
+    var totRecovered = Recovered + totRecovered
     var Deaths = +x[i].TotalDeaths;
     var totDeaths = Deaths + totDeaths;
     var NewCases = +x[i].NewCases;
@@ -79,17 +81,20 @@ d3.json("data.json", function init(x) {
     radius: radius * 100
     }).bindTooltip("<h1>" + Country + "</h1> <hr> <h3>Total Cases: " + Cases + "</h3> <hr> <h3>Mortality Rate: " + MortRate+ "</h3> <hr> <h3>Recent Cases (24h): " + NewCases+ "</h3> <hr><h3>Recent Deaths (24h): " + NewDeaths+ "</h3>").addTo(myMap);
   };
+  // d3.json("data_closed_cases.json", function this(data){
+  //   var data = data
+  //   var total_cases = data.map(column => column.TotalCases).reduce(function(a,b){
+  //     return a + b
+  //   }, 0);
+  // var weighted_global_mortality = data.map(row=> row.TotalDeaths/total_cases).reduce(function(a,b){
+  // return a + b}, 0);
 
-  var total_countries = x.length;
-  var weighted_global_mortality = x.map(row=> (row.TotalDeaths/row.TotalCases)*(row.TotalCases/totCases)).reduce(function(a,b){
-    return a + b
-  }, 0);
   var overallData = {
     "Total COVID-19 Cases: ": totCases.toLocaleString(),
     "Total Deaths from COVID-19: ": totDeaths.toLocaleString(),
     "Total Confirmed Cases in 24h: ": totNewCases.toLocaleString(),
     "Total Confirmed Deaths in 24h: ": totNewDeaths.toLocaleString(),
-    "Global Weighted-Average Mortality Rate: ": (weighted_global_mortality * 100).toFixed(4) + "%"
+    // "Global Weighted-Average Mortality Rate: ": (weighted_global_mortality * 100).toFixed(3) + "%"
   };
   console.log(overallData);
   var data_location = d3.select("#Global_Data");
