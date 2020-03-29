@@ -45,7 +45,7 @@
       var plotData = [trace1];
       
       var layout = {
-        title: "Top Total New Cases Per Country (Past 24 Hours)"};
+        title: "Top Total New Cases Per Country (Past 12 Hours)"};
       
       Plotly.newPlot("plot", plotData, layout)});
 
