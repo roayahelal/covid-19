@@ -19,7 +19,7 @@
     // New cases per country chart
       var trace1 = {
         x: data.map(row => row.Country),
-        y: data.map(row => row.NewCases).slice(0,10),
+        y: data.map(row => row.NewCases),
         type: "bar",
         text: data.map(row => row.NewCases),
         textposition: 'auto',
