@@ -90,8 +90,8 @@ d3.json("data.json", function init(x) {
   var overallData = {
     "Total COVID-19 Cases: ": totCases.toLocaleString(),
     "Total Deaths from COVID-19: ": totDeaths.toLocaleString(),
-    "Total Confirmed Cases in 24h: ": totNewCases.toLocaleString(),
-    "Total Confirmed Deaths in 24h: ": totNewDeaths.toLocaleString(),
+    "Total Confirmed Cases [12h]: ": totNewCases.toLocaleString(),
+    "Total Confirmed Deaths [12h]: ": totNewDeaths.toLocaleString(),
     "Global Weighted-Average Mortality Rate: ": (weighted_global_mortality * 100).toFixed(3) + "%"
   };
   console.log(overallData);
@@ -132,8 +132,8 @@ function specifyCountry() {
           "Country: ": Country,
           "Total Cases: ": Cases.toLocaleString(),
           "Total Deaths: ": Deaths.toLocaleString(),
-          "24h Cases: ": NewCases.toLocaleString(),
-          "24h Deaths: ": NewDeaths.toLocaleString(),
+          "12h Cases: ": NewCases.toLocaleString(),
+          "12h Deaths: ": NewDeaths.toLocaleString(),
           "Current Mortality Rate: ": MortRate,
           "Closed Cases Mortality Rate: ": closedMortRate.toLocaleString()
         };

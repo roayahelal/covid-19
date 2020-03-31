@@ -11,10 +11,10 @@
           return a + b
         }, 0);
         console.log(weighted_mortality_per_country);
-        var dates = data.map(row=> (row.Date)).slice(2,3);
-        var date = new Date(dates);
-        console.log(`Date Updated: ${(data.map(row=> (row.Date)).slice(2,3))}`)
-        d3.select("#date-time").text(date);
+        var dates = new Date(data.map(row=> (row.Date)).slice(1,2));
+        // var date = new Date.parse(dates);
+        console.log(`Date Updated: ${(dates)}`)
+        d3.select("#date-time").text(dates);
 
     // New cases per country chart
       var trace1 = {
