@@ -38,7 +38,7 @@
           {type: 'filter',
           target: 'y',
           operation: '>',
-          value: 100
+          value: 229
         }]
         
       };
@@ -73,7 +73,7 @@
             {type: 'filter',
             target: 'y',
             operation: '>',
-            value: 100
+            value: 229
           }]
           
         };
