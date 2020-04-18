@@ -1,186 +1,186 @@
 ,country,growth_factor,cases,analysis,growth_factor_mod,new_cases
-0,Afghanistan,1.1153846153846154,665.0,COVID-19 Spread is Starting To Get Outta Hands!,1.3223981900452488,58.0
-1,Albania,1.6153846153846154,467.0,COVID-19 Spread is Starting To Get Outta Hands!,1.1900452488687783,21.0
-2,Algeria,0.7752808988764045,1983.0,COVID-19 Spread is Starting To Get Outta Hands!,1.0829529494382022,69.0
-3,Andorra,0.21621621621621623,646.0,Analysis is Pending Additional Data,18.60810810810811,8.0
+0,Afghanistan,1.1785714285714286,906.0,COVID-19 Spread is Possibly Getting Under Control!,0.9892857142857143,66.0
+1,Albania,0.875,539.0,COVID-19 Spread is Starting To Get Outta Hands!,1.069078947368421,21.0
+2,Algeria,1.3888888888888888,2418.0,COVID-19 Spread is Starting To Get Outta Hands!,1.2944444444444443,150.0
+3,Andorra,23.0,696.0,COVID-19 Spread Has Gotten Out of Control!,11.5,23.0
 4,Angola,0.0,19.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-5,Antigua and Barbuda,2.0,23.0,COVID-19 Spread Can Be Contained!,1.0,2.0
-6,Argentina,0.39520958083832336,2208.0,Analysis is Pending Additional Data,83.69760479041916,66.0
-7,Armenia,0.5652173913043478,1039.0,COVID-19 Spread is Starting To Get Outta Hands!,1.0492753623188407,26.0
-8,Australia,3.0,6351.0,COVID-19 Spread Has Gotten Out of Control!,1.5681818181818181,36.0
-9,Austria,0.6906474820143885,14041.0,COVID-19 Spread is Possibly Getting Under Control!,0.6222161712860788,96.0
-10,Azerbaijan,1.25,1148.0,COVID-19 Spread is Possibly Getting Under Control!,0.9235074626865671,50.0
-11,Bahamas,1.0,47.0,COVID-19 Spread Can Be Contained!,0.5,1.0
-12,Bahrain,2.34375,1361.0,COVID-19 Spread is Starting To Get Outta Hands!,1.5892663043478261,225.0
-13,Bangladesh,1.3093525179856116,803.0,Analysis is Pending Additional Data,1.8529521210617714,182.0
-14,Barbados,0.3333333333333333,72.0,COVID-19 Spread Can Be Contained!,1.6666666666666667,1.0
-15,Belarus,0.96875,2919.0,COVID-19 Spread is Starting To Get Outta Hands!,1.2027423469387755,341.0
-16,Belgium,0.578268876611418,30589.0,COVID-19 Spread Has Gotten Out of Control!,0.8920211888608534,942.0
+5,Antigua and Barbuda,0.0,23.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+6,Argentina,0.765625,2669.0,COVID-19 Spread is Possibly Getting Under Control!,0.7683546686746988,98.0
+7,Armenia,0.875,1201.0,COVID-19 Spread is Possibly Getting Under Control!,0.9829545454545454,42.0
+8,Australia,2.727272727272727,6522.0,COVID-19 Spread Has Gotten Out of Control!,1.8036363636363635,60.0
+9,Austria,0.85,14595.0,Analysis is Pending Additional Data,1.0613636363636363,119.0
+10,Azerbaijan,1.9,1340.0,COVID-19 Spread is Starting To Get Outta Hands!,1.2178571428571427,57.0
+11,Bahamas,0.25,54.0,COVID-19 Spread Can Be Contained!,2.125,1.0
+12,Bahrain,1.3793103448275863,1740.0,COVID-19 Spread is Possibly Getting Under Control!,0.7910537738123945,40.0
+13,Bangladesh,0.7800586510263929,1838.0,COVID-19 Spread is Starting To Get Outta Hands!,1.1685681382985846,266.0
+14,Barbados,0.0,75.0,COVID-19 Spread Can Be Contained!,1.0,0.0
+15,Belarus,1.2079831932773109,4779.0,COVID-19 Spread Has Gotten Out of Control!,1.1364300753858592,575.0
+16,Belgium,1.075242718446602,36138.0,COVID-19 Spread Has Gotten Out of Control!,0.7894551000545968,1329.0
 17,Benin,0.0,35.0,COVID-19 Spread Can Be Contained!,0.0,0.0
 18,Bhutan,0.0,5.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-19,Bolivia,1.2,330.0,Analysis is Pending Additional Data,2.3857142857142857,30.0
-20,Bosnia and Herzegovina,0.4444444444444444,1037.0,COVID-19 Spread is Possibly Getting Under Control!,0.9222222222222222,28.0
-21,Brazil,0.8450511945392492,23430.0,COVID-19 Spread Has Gotten Out of Control!,1.0951610426323426,1238.0
+19,Bolivia,0.5454545454545454,465.0,COVID-19 Spread is Possibly Getting Under Control!,0.7843551797040169,24.0
+20,Bosnia and Herzegovina,0.8245614035087719,1214.0,COVID-19 Spread is Starting To Get Outta Hands!,1.4678362573099415,47.0
+21,Brazil,1.5472684085510688,33682.0,COVID-19 Spread Has Gotten Out of Control!,1.1178134063684055,3257.0
 22,Brunei,0.0,136.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-23,Bulgaria,0.7142857142857143,685.0,COVID-19 Spread is Possibly Getting Under Control!,0.6263736263736264,10.0
-24,Burkina Faso,0.0,497.0,COVID-19 Spread is Possibly Getting Under Control!,0.15853658536585366,0.0
-25,Cabo Verde,2.0,10.0,COVID-19 Spread Can Be Contained!,1.0,2.0
-26,Cambodia,0.0,122.0,COVID-19 Spread Can Be Contained!,1.0,0.0
-27,Cameroon,0.0,820.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-28,Canada,1.4063136456211813,25679.0,COVID-19 Spread Has Gotten Out of Control!,1.0937693924207736,1381.0
-29,Central African Republic,3.0,11.0,COVID-19 Spread is Starting To Get Outta Hands!,1.5,3.0
-30,Chad,0.7142857142857143,23.0,COVID-19 Spread Can Be Contained!,3.857142857142857,5.0
-31,Chile,1.0909090909090908,7525.0,COVID-19 Spread Has Gotten Out of Control!,0.8811352966282544,312.0
-32,China,0.6583333333333333,83213.0,Analysis is Pending Additional Data,1.1510844748858446,79.0
-33,Colombia,1.1343283582089552,2852.0,COVID-19 Spread is Possibly Getting Under Control!,0.7091133316468505,76.0
-34,Congo (Brazzaville),0.0,60.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-35,Congo (Kinshasa),0.09090909090909091,235.0,COVID-19 Spread is Possibly Getting Under Control!,0.7329545454545454,1.0
-36,Costa Rica,0.9444444444444444,612.0,COVID-19 Spread is Possibly Getting Under Control!,0.945906432748538,17.0
-37,Cote d'Ivoire,1.2682926829268293,626.0,COVID-19 Spread is Possibly Getting Under Control!,0.8644834201151,52.0
-38,Croatia,0.7575757575757576,1650.0,COVID-19 Spread is Starting To Get Outta Hands!,1.224941724941725,50.0
+23,Bulgaria,0.8679245283018868,846.0,COVID-19 Spread is Starting To Get Outta Hands!,1.2133740288568258,46.0
+24,Burkina Faso,2.75,557.0,COVID-19 Spread is Starting To Get Outta Hands!,1.5178571428571428,11.0
+25,Cabo Verde,0.0,56.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+26,Cambodia,0.0,122.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+27,Cameroon,0.0,996.0,COVID-19 Spread Can Be Contained!,74.0,0.0
+28,Canada,0.7711538461538462,32813.0,COVID-19 Spread Has Gotten Out of Control!,1.4929023063818634,2005.0
+29,Central African Republic,0.0,12.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+30,Chad,0.0,27.0,COVID-19 Spread Can Be Contained!,2.0,0.0
+31,Chile,0.8333333333333334,9252.0,COVID-19 Spread Has Gotten Out of Control!,1.1666666666666667,445.0
+32,China,7.595744680851064,83760.0,COVID-19 Spread Has Gotten Out of Control!,4.267872340425532,357.0
+33,Colombia,1.609375,3439.0,COVID-19 Spread Has Gotten Out of Control!,1.312624007936508,206.0
+34,Congo (Brazzaville),26.0,143.0,COVID-19 Spread Has Gotten Out of Control!,13.0,26.0
+35,Congo (Kinshasa),1.5384615384615385,287.0,COVID-19 Spread is Starting To Get Outta Hands!,1.2692307692307692,20.0
+36,Costa Rica,0.4375,649.0,COVID-19 Spread is Starting To Get Outta Hands!,1.21875,7.0
+37,Cote d'Ivoire,2.125,688.0,COVID-19 Spread Has Gotten Out of Control!,9.0625,34.0
+38,Croatia,0.46,1814.0,COVID-19 Spread is Possibly Getting Under Control!,0.9056756756756756,23.0
 39,Diamond Princess,0.0,712.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-40,Cuba,1.163265306122449,726.0,COVID-19 Spread is Starting To Get Outta Hands!,1.0191326530612246,57.0
-41,Cyprus,1.7058823529411764,662.0,COVID-19 Spread is Starting To Get Outta Hands!,1.257703081232493,29.0
-42,Czechia,0.425,6059.0,Analysis is Pending Additional Data,1.020580808080808,68.0
-43,Denmark,0.8089887640449438,6513.0,COVID-19 Spread is Possibly Getting Under Control!,0.9073192407795341,144.0
-44,Djibouti,3.111111111111111,298.0,Analysis is Pending Additional Data,1.9204204204204205,84.0
-45,Dominican Republic,0.9615384615384616,3167.0,Analysis is Pending Additional Data,1.2289706696181517,200.0
-46,Ecuador,0.3014354066985646,7529.0,Analysis is Pending Additional Data,1.239259370015949,63.0
-47,Egypt,0.9920634920634921,2190.0,COVID-19 Spread is Possibly Getting Under Control!,0.9305145046524357,125.0
-48,El Salvador,1.7142857142857142,137.0,COVID-19 Spread Can Be Contained!,4.357142857142857,12.0
-49,Equatorial Guinea,0.0,21.0,COVID-19 Spread Can Be Contained!,1.5,0.0
-50,Eritrea,0.0,34.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-51,Estonia,4.6,1332.0,COVID-19 Spread Has Gotten Out of Control!,2.3543478260869564,23.0
-52,Eswatini,0.5,15.0,COVID-19 Spread Can Be Contained!,1.25,1.0
-53,Ethiopia,1.5,74.0,COVID-19 Spread Can Be Contained!,1.0,3.0
-54,Fiji,0.0,16.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-55,Finland,1.3043478260869565,3064.0,COVID-19 Spread is Possibly Getting Under Control!,0.9058503836317136,90.0
-56,France,1.4288141352361536,137875.0,COVID-19 Spread Has Gotten Out of Control!,1.0212252494362586,4205.0
-57,Gabon,2.6666666666666665,57.0,Analysis is Pending Additional Data,2.083333333333333,8.0
+40,Cuba,1.2708333333333333,923.0,COVID-19 Spread is Starting To Get Outta Hands!,1.1354166666666665,61.0
+41,Cyprus,0.75,750.0,COVID-19 Spread is Possibly Getting Under Control!,0.875,15.0
+42,Czechia,0.5345622119815668,6549.0,Analysis is Pending Additional Data,1.3006144393241168,116.0
+43,Denmark,0.9797979797979798,7268.0,Analysis is Pending Additional Data,1.0722519310754606,194.0
+44,Djibouti,0.9038461538461539,732.0,COVID-19 Spread is Starting To Get Outta Hands!,1.5352564102564101,141.0
+45,Dominican Republic,2.631205673758865,4126.0,COVID-19 Spread Has Gotten Out of Control!,1.5305418612696764,371.0
+46,Ecuador,0.6130790190735694,8450.0,Analysis is Pending Additional Data,1.0261473526740397,225.0
+47,Egypt,1.0178571428571428,2844.0,COVID-19 Spread is Starting To Get Outta Hands!,1.0508640552995392,171.0
+48,El Salvador,2.6,177.0,COVID-19 Spread is Starting To Get Outta Hands!,1.55,13.0
+49,Equatorial Guinea,28.0,79.0,COVID-19 Spread Has Gotten Out of Control!,14.0,28.0
+50,Eritrea,0.0,35.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+51,Estonia,0.7352941176470589,1459.0,COVID-19 Spread is Possibly Getting Under Control!,0.9972766884531591,25.0
+52,Eswatini,0.0,16.0,COVID-19 Spread Can Be Contained!,0.5,0.0
+53,Ethiopia,0.5714285714285714,96.0,COVID-19 Spread Can Be Contained!,1.4523809523809526,4.0
+54,Fiji,0.0,17.0,COVID-19 Spread Can Be Contained!,0.5,0.0
+55,Finland,0.9090909090909091,3489.0,Analysis is Pending Additional Data,1.3229665071770336,120.0
+56,France,0.1630026381005676,149130.0,COVID-19 Spread Has Gotten Out of Control!,2.02328958356441,2039.0
+57,Gabon,28.0,108.0,Analysis is Pending Additional Data,14.0,28.0
 58,Gambia,0.0,9.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-59,Georgia,1.0,272.0,COVID-19 Spread is Starting To Get Outta Hands!,1.4375,15.0
-60,Germany,0.7528852681602173,130072.0,COVID-19 Spread Has Gotten Out of Control!,0.9146231236672477,2218.0
-61,Ghana,0.0,566.0,Analysis is Pending Additional Data,2.6333333333333333,0.0
-62,Greece,0.9393939393939394,2145.0,COVID-19 Spread is Possibly Getting Under Control!,0.7054112554112555,31.0
-63,Guatemala,0.05555555555555555,156.0,COVID-19 Spread Can Be Contained!,0.845959595959596,1.0
-64,Guinea,69.0,319.0,Analysis is Pending Additional Data,34.5,69.0
-65,Guyana,0.0,45.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-66,Haiti,7.0,40.0,Analysis is Pending Additional Data,3.5,7.0
+59,Georgia,0.5238095238095238,370.0,Analysis is Pending Additional Data,3.761904761904762,22.0
+60,Germany,1.2560271646859082,141397.0,COVID-19 Spread Has Gotten Out of Control!,1.0618674420954586,3699.0
+61,Ghana,0.0,641.0,Analysis is Pending Additional Data,2.5,0.0
+62,Greece,1.1333333333333333,2224.0,COVID-19 Spread is Possibly Getting Under Control!,0.9075757575757575,17.0
+63,Guatemala,1.125,214.0,COVID-19 Spread Can Be Contained!,1.1778846153846154,18.0
+64,Guinea,1.1470588235294117,477.0,COVID-19 Spread is Possibly Getting Under Control!,0.9881635581061692,39.0
+65,Guyana,8.0,63.0,Analysis is Pending Additional Data,4.0,8.0
+66,Haiti,2.0,43.0,COVID-19 Spread Can Be Contained!,1.0,2.0
 67,Holy See,0.0,8.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-68,Honduras,4.0,397.0,COVID-19 Spread Has Gotten Out of Control!,2.05,4.0
-69,Hungary,0.48,1458.0,COVID-19 Spread is Possibly Getting Under Control!,0.6566666666666667,48.0
-70,Iceland,0.8333333333333334,1711.0,COVID-19 Spread is Possibly Getting Under Control!,0.8452380952380952,10.0
-71,India,1.6442687747035574,10453.0,COVID-19 Spread Has Gotten Out of Control!,1.269657972257439,1248.0
-72,Indonesia,0.7919799498746867,4557.0,COVID-19 Spread Has Gotten Out of Control!,1.000535429482798,316.0
-73,Iran,0.975859987929994,73303.0,COVID-19 Spread Has Gotten Out of Control!,0.9389370707205767,1617.0
-74,Iraq,0.7647058823529411,1378.0,COVID-19 Spread is Possibly Getting Under Control!,0.8182503770739065,26.0
-75,Ireland,1.3645116918844566,10647.0,COVID-19 Spread Has Gotten Out of Control!,1.1155097196013464,992.0
-76,Israel,1.0970149253731343,11586.0,COVID-19 Spread Has Gotten Out of Control!,1.1485074626865672,441.0
-77,Italy,0.7705278592375366,159516.0,COVID-19 Spread Has Gotten Out of Control!,0.8211395154730503,3153.0
-78,Jamaica,1.0,73.0,COVID-19 Spread Can Be Contained!,1.5,4.0
-79,Japan,0.8371467025572006,7370.0,COVID-19 Spread Has Gotten Out of Control!,1.200678614436495,622.0
-80,Jordan,0.25,391.0,COVID-19 Spread is Possibly Getting Under Control!,0.5694444444444444,2.0
-81,Kazakhstan,1.627906976744186,1091.0,COVID-19 Spread Has Gotten Out of Control!,1.6252742430890743,140.0
-82,Kenya,1.8333333333333333,208.0,COVID-19 Spread Can Be Contained!,2.4166666666666665,11.0
-83,"Korea, South",0.78125,10537.0,COVID-19 Spread is Possibly Getting Under Control!,0.9239583333333333,25.0
-84,Kuwait,0.825,1300.0,COVID-19 Spread is Possibly Getting Under Control!,0.6609472049689441,66.0
-85,Kyrgyzstan,1.105263157894737,419.0,COVID-19 Spread is Starting To Get Outta Hands!,1.01604621309371,42.0
-86,Latvia,0.19047619047619047,655.0,COVID-19 Spread is Possibly Getting Under Control!,0.6785714285714286,4.0
-87,Lebanon,0.18181818181818182,632.0,COVID-19 Spread is Possibly Getting Under Control!,0.640909090909091,2.0
-88,Liberia,4.5,59.0,Analysis is Pending Additional Data,2.340909090909091,9.0
+68,Honduras,2.2857142857142856,442.0,COVID-19 Spread is Starting To Get Outta Hands!,1.4345238095238095,16.0
+69,Hungary,1.5205479452054795,1763.0,COVID-19 Spread is Starting To Get Outta Hands!,1.3050500920057249,111.0
+70,Iceland,1.25,1754.0,COVID-19 Spread is Starting To Get Outta Hands!,1.4821428571428572,15.0
+71,India,0.8321299638989169,14352.0,COVID-19 Spread Has Gotten Out of Control!,1.079538035841674,922.0
+72,Indonesia,1.0710526315789475,5923.0,COVID-19 Spread Has Gotten Out of Control!,1.1752569555201133,407.0
+73,Iran,0.9333748443337484,79494.0,COVID-19 Spread Has Gotten Out of Control!,0.9977720782515302,1499.0
+74,Iraq,2.526315789473684,1482.0,COVID-19 Spread Has Gotten Out of Control!,1.8964912280701753,48.0
+75,Ireland,0.9792817679558011,13980.0,COVID-19 Spread Has Gotten Out of Control!,0.8285921948393238,709.0
+76,Israel,0.8715953307392996,12982.0,COVID-19 Spread is Possibly Getting Under Control!,0.7182152477872322,224.0
+77,Italy,0.9226096143687269,172434.0,COVID-19 Spread Has Gotten Out of Control!,1.1710910838997741,3493.0
+78,Jamaica,0.0,143.0,COVID-19 Spread Can Be Contained!,0.17307692307692307,0.0
+79,Japan,2.2072243346007605,9787.0,COVID-19 Spread Has Gotten Out of Control!,1.6816341453223582,1161.0
+80,Jordan,5.0,407.0,COVID-19 Spread Has Gotten Out of Control!,2.625,5.0
+81,Kazakhstan,1.3457943925233644,1546.0,COVID-19 Spread is Starting To Get Outta Hands!,1.5221035454680314,144.0
+82,Kenya,1.3333333333333333,246.0,COVID-19 Spread is Starting To Get Outta Hands!,1.1666666666666665,12.0
+83,"Korea, South",1.0,10635.0,COVID-19 Spread is Possibly Getting Under Control!,0.9074074074074074,22.0
+84,Kuwait,1.1260504201680672,1658.0,Analysis is Pending Additional Data,1.7530252100840336,134.0
+85,Kyrgyzstan,1.3529411764705883,489.0,COVID-19 Spread is Starting To Get Outta Hands!,1.1238390092879258,23.0
+86,Latvia,0.7777777777777778,682.0,COVID-19 Spread is Possibly Getting Under Control!,0.8888888888888888,7.0
+87,Lebanon,1.0,668.0,COVID-19 Spread is Possibly Getting Under Control!,0.6470588235294118,5.0
+88,Liberia,17.0,76.0,Analysis is Pending Additional Data,8.5,17.0
 89,Liechtenstein,0.0,79.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-90,Lithuania,0.3333333333333333,1062.0,COVID-19 Spread is Possibly Getting Under Control!,0.6666666666666666,9.0
-91,Luxembourg,1.0,3292.0,COVID-19 Spread is Possibly Getting Under Control!,0.6170212765957447,11.0
-92,Madagascar,0.0,106.0,COVID-19 Spread Can Be Contained!,0.2222222222222222,0.0
-93,Malaysia,0.8758169934640523,4817.0,COVID-19 Spread is Possibly Getting Under Control!,0.8536693662972435,134.0
-94,Maldives,0.0,20.0,COVID-19 Spread Can Be Contained!,0.5,0.0
-95,Malta,0.75,384.0,COVID-19 Spread is Possibly Getting Under Control!,0.575,6.0
+90,Lithuania,0.5675675675675675,1149.0,COVID-19 Spread is Starting To Get Outta Hands!,1.1647361647361647,21.0
+91,Luxembourg,0.5070422535211268,3480.0,COVID-19 Spread is Possibly Getting Under Control!,0.7913999146393512,36.0
+92,Madagascar,6.0,117.0,Analysis is Pending Additional Data,3.25,6.0
+93,Malaysia,0.6272727272727273,5251.0,COVID-19 Spread is Possibly Getting Under Control!,0.9606951871657754,69.0
+94,Maldives,1.0,28.0,COVID-19 Spread Can Be Contained!,1.25,3.0
+95,Malta,0.7692307692307693,422.0,COVID-19 Spread is Starting To Get Outta Hands!,1.4679487179487178,10.0
 96,Mauritania,0.0,7.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-97,Mauritius,0.0,324.0,Analysis is Pending Additional Data,2.5,0.0
-98,Mexico,1.1786666666666668,4661.0,COVID-19 Spread Has Gotten Out of Control!,1.0545938792390406,442.0
-99,Moldova,0.49019607843137253,1712.0,COVID-19 Spread is Possibly Getting Under Control!,0.6631308261009322,50.0
-100,Monaco,0.0,93.0,COVID-19 Spread Can Be Contained!,0.25,0.0
-101,Mongolia,1.0,17.0,COVID-19 Spread Can Be Contained!,0.5,1.0
-102,Montenegro,0.2222222222222222,274.0,COVID-19 Spread is Possibly Getting Under Control!,0.6736111111111112,2.0
-103,Morocco,0.8793103448275862,1763.0,COVID-19 Spread is Starting To Get Outta Hands!,1.03759331674369,102.0
+97,Mauritius,0.0,324.0,COVID-19 Spread is Possibly Getting Under Control!,0.0,0.0
+98,Mexico,1.0044642857142858,6297.0,COVID-19 Spread Has Gotten Out of Control!,1.0840503246753248,450.0
+99,Moldova,1.0476190476190477,2264.0,COVID-19 Spread is Possibly Getting Under Control!,0.9803312629399585,110.0
+100,Monaco,1.0,94.0,COVID-19 Spread Can Be Contained!,0.5,1.0
+101,Mongolia,0.0,31.0,COVID-19 Spread Can Be Contained!,0.5,0.0
+102,Montenegro,0.0,303.0,COVID-19 Spread is Starting To Get Outta Hands!,1.5,0.0
+103,Morocco,1.084942084942085,2564.0,COVID-19 Spread is Starting To Get Outta Hands!,1.4946769248239837,281.0
 104,Namibia,0.0,16.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-105,Nepal,0.6666666666666666,14.0,COVID-19 Spread Can Be Contained!,1.8333333333333333,2.0
-106,Netherlands,0.8204255319148936,26710.0,COVID-19 Spread Has Gotten Out of Control!,0.8546151865323334,964.0
-107,New Zealand,1.0555555555555556,1349.0,COVID-19 Spread is Possibly Getting Under Control!,0.8381226053639848,19.0
-108,Nicaragua,0.0,9.0,COVID-19 Spread Can Be Contained!,0.5,0.0
-109,Niger,0.0,529.0,COVID-19 Spread is Possibly Getting Under Control!,0.3584905660377358,0.0
-110,Nigeria,4.0,343.0,Analysis is Pending Additional Data,2.1923076923076925,20.0
-111,North Macedonia,0.38235294117647056,854.0,COVID-19 Spread is Possibly Getting Under Control!,0.8850540216086434,26.0
-112,Norway,0.6724137931034483,6603.0,COVID-19 Spread is Possibly Getting Under Control!,0.9467332123411978,78.0
-113,Oman,2.4150943396226414,727.0,COVID-19 Spread Has Gotten Out of Control!,1.6349665246500305,128.0
-114,Pakistan,1.2146118721461188,5496.0,COVID-19 Spread Has Gotten Out of Control!,0.9538249234148315,266.0
-115,Panama,0.6384615384615384,3400.0,COVID-19 Spread is Possibly Getting Under Control!,0.9048163548163548,166.0
-116,Papua New Guinea,0.0,2.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-117,Paraguay,13.0,147.0,Analysis is Pending Additional Data,6.625,13.0
-118,Peru,3.375558867362146,9784.0,COVID-19 Spread Has Gotten Out of Control!,2.0405659741647746,2265.0
-119,Philippines,1.290909090909091,4932.0,COVID-19 Spread Has Gotten Out of Control!,1.117557549746391,284.0
-120,Poland,0.8176100628930818,6934.0,COVID-19 Spread Has Gotten Out of Control!,0.805313759626092,260.0
-121,Portugal,0.5836120401337793,16934.0,COVID-19 Spread Has Gotten Out of Control!,0.8723885443387343,349.0
-122,Qatar,1.00398406374502,3231.0,COVID-19 Spread Has Gotten Out of Control!,1.0830105503910286,252.0
-123,Romania,1.0741935483870968,6633.0,COVID-19 Spread Has Gotten Out of Control!,0.8334638870042559,333.0
-124,Russia,1.170173833485819,18328.0,COVID-19 Spread Has Gotten Out of Control!,1.2407557829696643,2558.0
-125,Rwanda,0.16666666666666666,127.0,COVID-19 Spread Can Be Contained!,1.5833333333333333,1.0
+105,Nepal,14.0,30.0,Analysis is Pending Additional Data,7.0,14.0
+106,Netherlands,1.1583880037488286,30619.0,COVID-19 Spread Has Gotten Out of Control!,1.3040581323091969,1236.0
+107,New Zealand,0.5333333333333333,1409.0,COVID-19 Spread is Possibly Getting Under Control!,0.6416666666666666,8.0
+108,Nicaragua,0.0,9.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+109,Niger,43.0,627.0,Analysis is Pending Additional Data,21.5,43.0
+110,Nigeria,1.457142857142857,493.0,COVID-19 Spread is Starting To Get Outta Hands!,1.2432773109243698,51.0
+111,North Macedonia,0.3364485981308411,1117.0,COVID-19 Spread is Possibly Getting Under Control!,0.9788303596714811,36.0
+112,Norway,0.26282051282051283,6937.0,COVID-19 Spread is Possibly Getting Under Control!,0.798076923076923,41.0
+113,Oman,0.45871559633027525,1069.0,COVID-19 Spread is Possibly Getting Under Control!,0.7912134682682304,50.0
+114,Pakistan,0.19776119402985073,7025.0,COVID-19 Spread is Possibly Getting Under Control!,0.5897230878574162,106.0
+115,Panama,1.497175141242938,4016.0,COVID-19 Spread Has Gotten Out of Control!,1.6162346294449983,265.0
+116,Papua New Guinea,0.0,7.0,COVID-19 Spread Can Be Contained!,2.5,0.0
+117,Paraguay,1.9230769230769231,199.0,COVID-19 Spread Can Be Contained!,4.211538461538462,25.0
+118,Peru,0.9822834645669292,13489.0,COVID-19 Spread Has Gotten Out of Control!,0.9245888312595738,998.0
+119,Philippines,1.0531400966183575,5878.0,COVID-19 Spread is Possibly Getting Under Control!,0.9765700483091788,218.0
+120,Poland,1.3720238095238095,8379.0,COVID-19 Spread Has Gotten Out of Control!,1.1281171679197994,461.0
+121,Portugal,0.24133333333333334,19022.0,COVID-19 Spread is Possibly Getting Under Control!,0.7038703991705547,181.0
+122,Qatar,1.4285714285714286,4663.0,COVID-19 Spread Has Gotten Out of Control!,1.4068652195860678,560.0
+123,Romania,0.7331975560081466,8067.0,COVID-19 Spread Has Gotten Out of Control!,1.0950854248883464,360.0
+124,Russia,1.1803944315545243,32008.0,COVID-19 Spread Has Gotten Out of Control!,1.0990519973593165,4070.0
+125,Rwanda,2.5,143.0,Analysis is Pending Additional Data,1.75,5.0
 126,Saint Lucia,0.0,15.0,COVID-19 Spread Can Be Contained!,0.0,0.0
 127,Saint Vincent and the Grenadines,0.0,12.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-128,San Marino,0.0,356.0,COVID-19 Spread is Possibly Getting Under Control!,0.0,0.0
-129,Saudi Arabia,1.1002331002331003,4934.0,COVID-19 Spread Has Gotten Out of Control!,1.11163487472388,472.0
-130,Senegal,5.5,291.0,COVID-19 Spread Has Gotten Out of Control!,2.826923076923077,11.0
-131,Serbia,1.696,4054.0,COVID-19 Spread Has Gotten Out of Control!,1.3025454545454545,424.0
+128,San Marino,0.16666666666666666,435.0,Analysis is Pending Additional Data,27.083333333333332,9.0
+129,Saudi Arabia,1.471042471042471,7142.0,COVID-19 Spread Has Gotten Out of Control!,1.260876205095272,762.0
+130,Senegal,0.3333333333333333,342.0,COVID-19 Spread is Possibly Getting Under Control!,0.8666666666666666,7.0
+131,Serbia,0.8359550561797753,5690.0,COVID-19 Spread Has Gotten Out of Control!,0.9633206653447896,372.0
 132,Seychelles,0.0,11.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-133,Singapore,1.6566523605150214,2918.0,COVID-19 Spread is Starting To Get Outta Hands!,1.4382738242365682,386.0
-134,Slovakia,1.9285714285714286,769.0,COVID-19 Spread is Starting To Get Outta Hands!,1.5027472527472527,27.0
-135,Slovenia,0.4117647058823529,1212.0,COVID-19 Spread is Possibly Getting Under Control!,0.509453781512605,7.0
-136,Somalia,8.75,60.0,Analysis is Pending Additional Data,6.375,35.0
-137,South Africa,0.6827586206896552,2272.0,Analysis is Pending Additional Data,3.2413793103448274,99.0
-138,Spain,0.8590956887486856,170099.0,COVID-19 Spread Has Gotten Out of Control!,0.8296319840461981,3268.0
-139,Sri Lanka,0.5833333333333334,217.0,COVID-19 Spread Can Be Contained!,1.0416666666666667,7.0
-140,Sudan,10.0,29.0,Analysis is Pending Additional Data,5.0,10.0
+133,Singapore,0.8557692307692307,5050.0,COVID-19 Spread Has Gotten Out of Control!,1.2422022887626913,623.0
+134,Slovakia,0.631578947368421,1049.0,Analysis is Pending Additional Data,2.351503759398496,72.0
+135,Slovenia,1.8,1304.0,COVID-19 Spread is Starting To Get Outta Hands!,1.2571428571428571,36.0
+136,Somalia,36.0,116.0,Analysis is Pending Additional Data,18.0,36.0
+137,South Africa,1.797979797979798,2783.0,COVID-19 Spread is Starting To Get Outta Hands!,1.442945942945943,178.0
+138,Spain,0.8065443592552026,190839.0,COVID-19 Spread Has Gotten Out of Control!,1.1189296360257983,5891.0
+139,Sri Lanka,6.0,244.0,COVID-19 Spread Has Gotten Out of Control!,3.0,6.0
+140,Sudan,1.0,33.0,COVID-19 Spread Can Be Contained!,0.5,1.0
 141,Suriname,0.0,10.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-142,Sweden,1.4006024096385543,10948.0,COVID-19 Spread Has Gotten Out of Control!,1.0565243807849423,465.0
-143,Switzerland,0.8863636363636364,25688.0,COVID-19 Spread Has Gotten Out of Control!,0.7201602354480052,273.0
-144,Taiwan*,1.6666666666666667,393.0,COVID-19 Spread is Starting To Get Outta Hands!,1.3333333333333335,5.0
-145,Tanzania,17.0,49.0,Analysis is Pending Additional Data,8.5,17.0
-146,Thailand,0.8484848484848485,2579.0,COVID-19 Spread is Possibly Getting Under Control!,0.7909090909090909,28.0
-147,Togo,1.0,77.0,COVID-19 Spread Can Be Contained!,0.5,1.0
-148,Trinidad and Tobago,0.0,113.0,COVID-19 Spread Can Be Contained!,0.16666666666666666,0.0
-149,Tunisia,0.8636363636363636,726.0,COVID-19 Spread is Starting To Get Outta Hands!,1.2175324675324675,19.0
-150,Turkey,0.8546669450824806,61049.0,COVID-19 Spread Has Gotten Out of Control!,0.8933708411671648,4093.0
-151,Uganda,0.0,54.0,COVID-19 Spread Can Be Contained!,0.5,0.0
-152,Ukraine,1.2218045112781954,3102.0,COVID-19 Spread Has Gotten Out of Control!,1.0427204374572796,325.0
-153,United Arab Emirates,1.028423772609819,4521.0,COVID-19 Spread Has Gotten Out of Control!,1.0288395458793778,398.0
-154,United Kingdom,0.8184546136534133,89570.0,COVID-19 Spread Has Gotten Out of Control!,0.915205670842649,4364.0
-155,Uruguay,-0.0,480.0,COVID-19 Spread is Possibly Getting Under Control!,-0.3333333333333333,0.0
-156,US,0.8751253587854895,580619.0,COVID-19 Spread Has Gotten Out of Control!,0.921756108949692,25306.0
-157,Uzbekistan,1.3571428571428572,998.0,COVID-19 Spread is Starting To Get Outta Hands!,1.0212287712287713,133.0
-158,Venezuela,1.3333333333333333,189.0,COVID-19 Spread Can Be Contained!,1.4166666666666665,8.0
-159,Vietnam,0.75,265.0,Analysis is Pending Additional Data,2.375,3.0
-160,Zambia,0.6666666666666666,45.0,COVID-19 Spread Can Be Contained!,1.8333333333333333,2.0
-161,Zimbabwe,3.0,17.0,COVID-19 Spread is Starting To Get Outta Hands!,1.5,3.0
+142,Sweden,1.102773246329527,13216.0,COVID-19 Spread Has Gotten Out of Control!,1.187278739347336,676.0
+143,Switzerland,0.8737373737373737,27078.0,COVID-19 Spread Has Gotten Out of Control!,0.9318686868686868,346.0
+144,Taiwan*,0.0,395.0,COVID-19 Spread is Possibly Getting Under Control!,0.0,0.0
+145,Tanzania,8.833333333333334,147.0,COVID-19 Spread Has Gotten Out of Control!,4.502380952380952,53.0
+146,Thailand,0.9655172413793104,2700.0,COVID-19 Spread is Possibly Getting Under Control!,0.9660919540229885,28.0
+147,Togo,2.0,83.0,COVID-19 Spread Can Be Contained!,1.0,2.0
+148,Trinidad and Tobago,0.0,114.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+149,Tunisia,1.0,864.0,COVID-19 Spread is Starting To Get Outta Hands!,1.1363636363636362,42.0
+150,Turkey,0.9066861070610289,78546.0,COVID-19 Spread Has Gotten Out of Control!,1.0140765270180174,4353.0
+151,Uganda,1.0,56.0,COVID-19 Spread Can Be Contained!,0.5,1.0
+152,Ukraine,1.2619647355163728,4662.0,COVID-19 Spread Has Gotten Out of Control!,1.1373599187785945,501.0
+153,United Arab Emirates,1.0369565217391303,6302.0,COVID-19 Spread Has Gotten Out of Control!,1.0508856682769725,477.0
+154,United Kingdom,1.2063492063492063,109769.0,COVID-19 Spread Has Gotten Out of Control!,1.1057619252962074,5624.0
+155,Uruguay,0.0,502.0,COVID-19 Spread is Possibly Getting Under Control!,0.5555555555555556,0.0
+156,US,1.014435153095291,699706.0,COVID-19 Spread Has Gotten Out of Control!,1.0555265026285383,31905.0
+157,Uzbekistan,1.1914893617021276,1405.0,COVID-19 Spread is Possibly Getting Under Control!,0.7672775275663923,56.0
+158,Venezuela,0.0,204.0,COVID-19 Spread Can Be Contained!,0.4375,0.0
+159,Vietnam,0.0,268.0,COVID-19 Spread is Possibly Getting Under Control!,0.5,0.0
+160,Zambia,4.0,52.0,Analysis is Pending Additional Data,2.0,4.0
+161,Zimbabwe,1.0,24.0,COVID-19 Spread Can Be Contained!,0.5,1.0
 162,Dominica,0.0,16.0,COVID-19 Spread Can Be Contained!,0.0,0.0
 163,Grenada,0.0,14.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-164,Mozambique,0.0,21.0,COVID-19 Spread Can Be Contained!,0.5,0.0
-165,Syria,0.0,25.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-166,Timor-Leste,2.0,4.0,COVID-19 Spread Can Be Contained!,1.0,2.0
-167,Belize,4.0,18.0,Analysis is Pending Additional Data,2.1666666666666665,4.0
-168,Laos,0.0,19.0,COVID-19 Spread Can Be Contained!,0.25,0.0
-169,Libya,1.0,26.0,COVID-19 Spread Can Be Contained!,1.0,1.0
-170,West Bank and Gaza,0.8181818181818182,308.0,Analysis is Pending Additional Data,11.409090909090908,18.0
-171,Guinea-Bissau,0.0,38.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-172,Mali,1.0,123.0,COVID-19 Spread Can Be Contained!,9.5,18.0
-173,Saint Kitts and Nevis,0.0,12.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-174,Kosovo,0.0,283.0,COVID-19 Spread is Possibly Getting Under Control!,0.0,0.0
-175,Burma,7.0,62.0,Analysis is Pending Additional Data,3.6363636363636362,21.0
+164,Mozambique,1.5,34.0,COVID-19 Spread Can Be Contained!,1.75,3.0
+165,Syria,5.0,38.0,Analysis is Pending Additional Data,2.5,5.0
+166,Timor-Leste,0.0,18.0,COVID-19 Spread Can Be Contained!,2.5,0.0
+167,Belize,0.0,18.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+168,Laos,0.0,19.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+169,Libya,0.0,49.0,COVID-19 Spread Can Be Contained!,0.038461538461538464,0.0
+170,West Bank and Gaza,28.0,402.0,COVID-19 Spread Has Gotten Out of Control!,14.0,28.0
+171,Guinea-Bissau,0.0,43.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+172,Mali,0.0,171.0,COVID-19 Spread Can Be Contained!,2.875,0.0
+173,Saint Kitts and Nevis,0.0,14.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+174,Kosovo,0.5,480.0,Analysis is Pending Additional Data,31.25,31.0
+175,Burma,0.2727272727272727,88.0,COVID-19 Spread Can Be Contained!,0.6363636363636364,3.0
 176,MS Zaandam,0.0,9.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-177,Botswana,0.0,13.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+177,Botswana,0.0,15.0,COVID-19 Spread Can Be Contained!,1.0,0.0
 178,Burundi,0.0,5.0,COVID-19 Spread Can Be Contained!,0.0,0.0
-179,Sierra Leone,0.0,10.0,COVID-19 Spread Can Be Contained!,1.0,0.0
-180,Malawi,3.0,16.0,Analysis is Pending Additional Data,1.6666666666666667,3.0
-181,South Sudan,0.0,4.0,New to The Pandemic,0.0,0.0
-182,Western Sahara,0.0,6.0,New to The Pandemic,1.0,0.0
-183,Sao Tome and Principe,0.0,4.0,New to The Pandemic,0.0,0.0
+179,Sierra Leone,5.5,26.0,Analysis is Pending Additional Data,3.25,11.0
+180,Malawi,1.0,17.0,COVID-19 Spread Can Be Contained!,0.5,1.0
+181,South Sudan,0.0,4.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+182,Western Sahara,0.0,6.0,COVID-19 Spread Can Be Contained!,0.0,0.0
+183,Sao Tome and Principe,0.0,4.0,COVID-19 Spread Can Be Contained!,0.0,0.0
 184,Yemen,0.0,1.0,New to The Pandemic,0.0,0.0
