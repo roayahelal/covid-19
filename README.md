@@ -1,7 +1,7 @@
 # COVID-19 - Coronavirus cases tracker
 
 ## Background
-The purpose of creating this tracker was to have a well-presented reliable and precise source for key statistics of the current COVID-19 situations.
+The purpose of creating this tracker was to have a well-presented reliable and precise source for key statistics of the current COVID-19 situation.
 
 ### Global-Weighted-Average mortality rate
 
