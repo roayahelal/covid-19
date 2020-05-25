@@ -11,7 +11,7 @@
           return a + b
         }, 0);
         console.log(weighted_mortality_per_country);
-        var dates = data.map(row=> (row.Date).slice(1,2));
+        var dates = data.map(row=> (row.Date)).slice(1);
         // var date = new Date.parse(dates);
         console.log(`Date Updated: ${(dates)}`)
         d3.select("#date-time").text(dates);
@@ -73,7 +73,7 @@
             {type: 'filter',
             target: 'y',
             operation: '>',
-            value: 229
+            value: 2290
           }]
           
         };
