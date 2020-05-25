@@ -38,7 +38,7 @@
           {type: 'filter',
           target: 'y',
           operation: '>',
-          value: 229
+          value: 2290
         }]
         
       };
