@@ -2,17 +2,22 @@
 
 ## Background
 The purpose of creating this tracker was to have a well-presented reliable and precise source for key statistics of the current COVID-19 situation.
-* Data collection and preperation: Data is scraped from worldmeter.com and cleanup is used using regex; example:
 
-```corona_df["NewCases"].replace("\,","",regex = True, inplace = True)```
+
+### Data collection and preperation
+* Data for the main page is scraped using Beautiful Soup from worldmeter.com, where caes are reported as aggreagates
+* Data for the infection status page is from "https://pomber.github.io/covid19/timeseries.json" where cases are reported by dates
 
 ### Main findings
 
 * Mortality rates speculations:
+As the Pandamic started, it was reported by the news that the mortality rate is estimated to be less than 3%. In mid-March, When China had the highest cases globly, the weighted-average mortality rat as calculated here e was around 5% even though China has the biggest weight in this calculcation and had a mortality rate of around 3%. This indicated that there might be some ommited reportigs of cases in China. Later on as the spread globaly increased and crisises started to show in Italy and the US, those speculations in China's repirtings were one of the main topics in official news.
 
-* Infection rates and imposed policies
+* Infection rates and imposed policies:
+It seems that sevral countries do look at the growth rate when easing down lockdown restrictions. This was noticed sevral times for Bahrain and Japan; where the lockdown was lifted around the same time the infection rate as calculcated in this poroject became less than 1.
 
 * Reported cases trends
+In general, there is a lag in reporting cases, espcially on weekends. This is important to note as any assumpsions in infection rates or total deaths should consider looking at the day of the week for present biases.
 
 ### Global-Weighted-Average Mortality Rate
 
@@ -74,9 +79,19 @@ if (Cases < 10) {
 
 ### Global infection status 
 
-* Tech used:
+* Tech used:Python, Tableau
 
-* Model / formula:
+* Model / formula: Infection Rate (for a given country) = Total new Cases today/ total new cases yesterday
+
+Afterwards, the result along with historical total cases are used in a manualy designed decision tree to determine the analysis/ status of the infection rate in a given country. The decision tree was built to memic personal reasioning. The status buckes are as follows:
+
+1)New to the pandamic
+2)COVID-19 Spread Can Be Contained!
+3)COVID-19 Spread is Possibly Getting Under Control!
+4)COVID-19 Spread is Starting To Get Outta Hands!
+5)COVID-19 Spread Has Gotten Out of Control!
+
+
 
 
 
