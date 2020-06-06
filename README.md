@@ -42,28 +42,7 @@ df_used["DeathRateXWeight"].sum()
 
 * Tech used: JavaScrip (Leaflet.js, D3.js)
 
-* Model / formula: the circle radius depends on what bucket do number of cases for a given country fall under, buckets and radiuses are as follows:
-```
-if (Cases < 10) {
-      radius = 500;
-    }
-    else if (Cases >= 10 && Cases < 50) {
-      radius = 700;
-    }
-    else if (Cases >=50  && Cases < 500) {
-      radius = 1500;
-    }
-    else if (Cases >= 500 && Cases< 5000) {
-      radius = 2000;
-    }
-    else if (Cases >= 5000 && Cases <10000) {
-      radius = 3500;
-    }
-
-    else if (Cases >= 10000) {
-        radius = 5000;
-    }
-  ```
+* Model / formula: the circle radius depends on what bucket does number of cases for a given country fall under
 
 ### Top total new cases per country
 * Tech used: JavaScript(Plotly.js)
@@ -86,9 +65,13 @@ if (Cases < 10) {
 Afterwards, the result along with historical total cases are used in a manualy designed decision tree to determine the analysis/ status of the infection rate in a given country. The decision tree was built to memic personal reasioning. The status buckes are as follows:
 
 1)New to the pandamic
+
 2)COVID-19 Spread Can Be Contained!
+
 3)COVID-19 Spread is Possibly Getting Under Control!
+
 4)COVID-19 Spread is Starting To Get Outta Hands!
+
 5)COVID-19 Spread Has Gotten Out of Control!
 
 
