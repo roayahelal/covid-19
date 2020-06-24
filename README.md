@@ -5,6 +5,7 @@ The purpose of creating this tracker was to have a well-presented reliable and p
 
 ![alt text](https://github.com/roayahelal/covid-19/blob/master/covid-19%20cases%20tracker%20code/screenshots/Screen%20Shot%202020-06-06%20at%205.21.07%20PM.png)
 ![alt text](https://github.com/roayahelal/covid-19/blob/master/covid-19%20cases%20tracker%20code/screenshots/Screen%20Shot%202020-05-25%20at%205.43.07%20AM.png)
+![alt text](https://github.com/roayahelal/covid-19/blob/master/covid-19%20cases%20tracker%20code/screenshots/Screen%20Shot%202020-06-06%20at%205.22.53%20PM.png)
 ![alt text](https://github.com/roayahelal/covid-19/blob/master/covid-19%20cases%20tracker%20code/screenshots/Screen%20Shot%202020-06-06%20at%205.21.47%20PM.png)
 
 
