@@ -11,7 +11,7 @@
           return a + b
         }, 0);
         console.log(weighted_mortality_per_country);
-        var dates = Date(data.map(row=> (row.Date)).slice(1,1));
+        var dates = "June 7th 2020";
         // var date = new Date.parse(dates);
         console.log(`Date Updated: ${(dates)}`)
         d3.select("#date-time").text(dates);
