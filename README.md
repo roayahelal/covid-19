@@ -1,9 +1,9 @@
 # COVID-19 - Coronavirus cases tracker
 
 ## Background
-The purpose of creating this tracker was to have a well-presented reliable and precise source for key statistics of the current COVID-19 situation. The project has been deployed as a githib page (https://roayahelal.github.io/covid-19/)
+The purpose of creating this tracker was to have a well-presented, reliable and precise source for key statistics of the current COVID-19 situation. The project has been deployed as a githib page (https://roayahelal.github.io/covid-19/)
 
-Please note that this project started during the first week of March and tracking has stopped in the first week of June.
+Please note that this project started during the first week of March and tracking has stopped by the first week of June.
 
 ![alt text](https://github.com/roayahelal/covid-19/blob/master/covid-19%20cases%20tracker%20code/screenshots/Screen%20Shot%202020-06-06%20at%205.21.07%20PM.png)
 ![alt text](https://github.com/roayahelal/covid-19/blob/master/covid-19%20cases%20tracker%20code/screenshots/Screen%20Shot%202020-05-25%20at%205.43.07%20AM.png)
@@ -13,13 +13,13 @@ Please note that this project started during the first week of March and trackin
 
 
 ### Data collection and preperation
-* Data for the main page is scraped using Beautiful Soup from worldmeter.com, where caes are reported as aggreagates
+* Data for the main page is scraped using Beautiful Soup from https://www.worldometers.info, where caes are reported as aggreagates
 * Data for the infection status page is from "https://pomber.github.io/covid19/timeseries.json" where cases are reported by dates
 
 ### Main findings
 
 * Mortality rates speculations:
-As the Pandamic started, it was reported by the news that the mortality rate is estimated to be less than 3%. In mid-March, When China had the highest cases globly, the weighted-average mortality rat as calculated here e was around 5% even though China has the biggest weight in this calculcation and had a mortality rate of around 3%. This indicated that there might be some ommited reportigs of cases in China. Later on as the spread globaly increased and crisises started to show in Italy and the US, those speculations in China's repirtings were one of the main topics in official news.
+As the Pandamic started, it was reported by the news that the mortality rate is estimated to be less than 3%. In mid-March, When China had the highest cases globly, the weighted-average mortality rate as calculated here  was around 5% even though China had the biggest weight in this calculcation and had a mortality rate of around 3%. This indicated that there might be some ommited reportigs of cases in China. Later on, as the spread globaly increased and crisises started to show in Italy and in the US, those speculations in China's repirtings were one of the main topics in official news.
 
 * Infection rates and imposed policies:
 It seems that sevral countries do look at the growth rate when easing down lockdown restrictions. This was noticed sevral times for Bahrain and Japan; where the lockdown was lifted around the same time the infection rate as calculcated in this poroject became less than 1.
